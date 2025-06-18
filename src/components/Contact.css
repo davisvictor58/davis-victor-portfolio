@@ -1,0 +1,28 @@
+.contact-section {
+    padding: 80px 20px;
+    text-align: center;
+    background-color: #0a192f;
+    color: #fff;
+}
+
+.contact-section h2 {
+    color: #64ffda;
+    margin-bottom: 20px;
+}
+
+.contact-links {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 20px;
+}
+
+.contact-links a {
+    color: #64ffda;
+    text-decoration: none;
+    font-size: 1.1rem;
+}
+
+.contact-links a:hover {
+    text-decoration: underline;
+}
