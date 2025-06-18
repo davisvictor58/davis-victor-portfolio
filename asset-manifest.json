@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/davis-victor-portfolio/static/css/main.c44b91ef.css",
+    "main.js": "/davis-victor-portfolio/static/js/main.1df7cd4e.js",
+    "index.html": "/davis-victor-portfolio/index.html",
+    "main.c44b91ef.css.map": "/davis-victor-portfolio/static/css/main.c44b91ef.css.map",
+    "main.1df7cd4e.js.map": "/davis-victor-portfolio/static/js/main.1df7cd4e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c44b91ef.css",
+    "static/js/main.1df7cd4e.js"
+  ]
+}
